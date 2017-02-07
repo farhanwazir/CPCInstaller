@@ -1,5 +1,5 @@
 {
-  "name": "restvel/installer",
+  "name": "farhanwazir/cpcinstaller",
   "type": "composer-plugin",
   "license": "MIT",
   "autoload": {
