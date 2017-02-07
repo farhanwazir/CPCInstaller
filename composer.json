@@ -1,0 +1,15 @@
+{
+  "name": "restvel/installer",
+  "type": "composer-plugin",
+  "license": "MIT",
+  "autoload": {
+    "psr-4": {"Restvel\\Installer\\": "src/Installer"}
+  },
+  "extra": {
+    "class": "Restvel\\Installer\\Plugin"
+  },
+  "require": {
+    "php": ">=5.6",
+    "composer-plugin-api": "^1.0"
+  }
+}
