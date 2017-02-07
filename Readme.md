@@ -4,6 +4,14 @@ Composer Packages Custom Installer is a easy to custom, you don't need any speci
 
 #### Boost up your work, just FORK it right now!
 
+Add package in your package composer.json, [visit for detail](https://getcomposer.org/doc/04-schema.md#type)
+```composer.json
+    require: {
+        "farhanwazir/cpcinstaller" : "1.*"
+        .....
+    }
+```
+
 If you have forked then go under src/Installer/Config see sample.php configuration file, copy it and add many as you wish. Each attribute of configuration file has its own functionality so read comments carefully and change it as on your needs. If you don't want optional attributes then remove it.
 
 ## Configuration
