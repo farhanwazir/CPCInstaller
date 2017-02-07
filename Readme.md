@@ -4,7 +4,7 @@ Composer Packages Custom Installer is a easy to custom, you don't need any speci
 
 #### Boost up your work, just FORK it right now!
 
-Add just 2 lines in composer.json, [visit for detail](https://getcomposer.org/doc/04-schema.md)
+Add just 2 lines in composer.json, [Composer package schema's](https://getcomposer.org/doc/04-schema.md)
 ```composer.json
     "type": "yourname-packagename",
     "require": {
