@@ -31,6 +31,7 @@ If you have forked then go under `src/Installer/Config` see `sample.php` configu
 
 
 - `location` - _Installation directory_
+
      It helps you to define where you wanted to install. It must be start from
      parent directory of vendor directory.
      
@@ -46,6 +47,7 @@ If you have forked then go under `src/Installer/Config` see `sample.php` configu
 
 
 - `only` _Allowed package(s)_
+
      If you want multiple packages for same "type" then use array as value
      like "only" => ["vendor/package_1", "vendor/package_2"]
      
