@@ -2,7 +2,7 @@
 
 Composer Packages Custom Installer is a easy to custom, you don't need any speciality. This will helpful for installation of your packages, modules, plugins, theme(s) and/or whatever you call, in your's given location with many more options. 
 
-#### Boost up your work, just FORK it right now!
+#### Boost up your work, FORK it right now!
 
 Add just 2 lines in composer.json, [Composer package schema's](https://getcomposer.org/doc/04-schema.md)
 ```composer.json
