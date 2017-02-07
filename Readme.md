@@ -76,8 +76,8 @@ If you have forked then go under src/Installer/Config see sample.php configurati
     - _Optional attribute_
 
 
-### Contribution
-If anyone thinks document for CPCInstaller needs to improve then send me pull request.
+# Contribution
+If have any suggestion for documentation then improve it and send me pull request.
 
 
 ## Thank you for using
