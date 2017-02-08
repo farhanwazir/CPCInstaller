@@ -10,8 +10,15 @@ Add just 2 lines in composer.json, [Composer package schema's](https://getcompos
     "require": {
         "farhanwazir/cpcinstaller" : "1.*"
         .....
-    }
+    },
+    "repositories": [
+            {
+                "type": "vcs",
+                "url": "https://github.com/yourname/cpcinstaller"
+            }
+        ],
 ```
+**Change instructions for composer.json:** In the `repositories` attribute you need to replace url with your forked url. 
 
 If you have forked then go under `src/Installer/Config` see `sample.php` configuration file, copy it and add many as you wish. Each attribute has its own functionality so read comments carefully and change it as on your needs. If you don't want optional attributes then remove it.
 
